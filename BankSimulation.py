@@ -1,7 +1,5 @@
 # Non-OOP
 
-from argparse import Action
-
 
 accountName = 'Subhash'
 accountBalance = 100
